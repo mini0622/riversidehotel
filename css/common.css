@@ -1,0 +1,16 @@
+.wrap{
+    width: 100%;
+}
+
+header, section, footer{
+    width: 100%;
+}
+
+
+.in_header,.section_wrap ,.footer_wrap{
+    max-width: 1792px;
+    width: 95%;
+    height: 100%;
+    margin: 0 auto;
+   /*  background-color:rgb(227, 255, 185); */
+}
